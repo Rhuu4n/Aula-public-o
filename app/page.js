@@ -21,6 +21,9 @@ export default function Home() {
     <div>
       <h1>Publicação</h1>
       <p>vários bagulho</p>
+
+      <p style={{background:"yellow"}}>Nova Versão!!!!!!!!!!!</p>
+
       <Link href={"teste"}>texto</Link>
 
       <form onSubmit={(e)=> enviaForm(e)}>
